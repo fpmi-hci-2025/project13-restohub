@@ -1,0 +1,17 @@
+title: RestoHub Docs
+description: Проект по UX/UI и разработке сервиса доставки еды. Документация, требования, БД и API.
+url: "https://fpmi-hci-2025.github.io"
+baseurl: "/project13-restohub"
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: dark
+
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/fpmi-hci-2025/project13-restohub"
+  "Wiki":
+    - "https://github.com/fpmi-hci-2025/project13-restohub/wiki"
+
+footer_content: "© 2025 RestoHub – учебный проект"
